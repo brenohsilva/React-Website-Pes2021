@@ -1,0 +1,65 @@
+.container.nav__container {
+    padding-bottom: 4rem;
+    display: grid;
+    grid-template-columns: repeat(5, 2fr);
+    gap: 2rem;
+}
+/* é o card roxo */
+.nav__item {
+    background: var(--color-bg-variant);
+    padding: 1rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.nav__item:hover {
+    border-color: var(--color-bg-variant);
+    background: transparent;
+}
+
+.nav__item-image {
+    padding: 2rem;
+    background: var(--color-primary);
+    border-radius: 4rem;
+    background: linear-gradient(
+        45deg,
+        transparent,
+        var(--color-primary),
+        transparent
+    );
+    overflow: hidden;
+}
+
+.nav__item h2{
+    text-align: center;
+}
+
+/* ========================== MEDIA QUERIES(TABLETS) 1024*/
+@media screen and (max-width: 1024px) {
+
+    
+}
+/* ========================= MEDIA QUERIES(PHONES)600*/
+
+@media screen and (max-width: 600px) {
+    .nav__item h2 {
+        margin-top: 1rem;
+        font-size: 1rem;
+    }
+
+    .nav__item h5 {
+        text-align: center;
+        margin-top: 0.6rem;
+    }
+    
+    .nav__item-image {
+        border-radius: 2rem;
+    }
+
+
+}
+
+
+
+

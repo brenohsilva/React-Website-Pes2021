@@ -1,0 +1,78 @@
+.downgrade {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+
+}
+
+.downgrade > div {
+    text-align: center;
+    margin-top: 2.5rem;
+    background: black;
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.downgrade > div:hover {
+    background: transparent;
+    border-color: var(--color-bg-variant);
+    cursor: default
+}
+
+.downgrade_content {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.downgrade_details {
+    display:grid;
+    row-gap: 1rem;
+    place-items: center;
+    grid-template-columns: 1fr;
+    padding: 1rem;
+}
+
+.downgrade_image {
+    width: 35%;
+}
+
+.downgrade-names h3 {
+    margin-bottom: 2rem;
+}
+
+/* ========================= MEDIA QUERIES(PHONES)600*/
+
+@media screen and (max-width: 600px) {
+    .downgrade {
+    grid-template-columns: 1fr;
+    }
+
+    .downgrade > div {
+        width:100%;
+        padding: 1rem 1rem;
+        margin-top: 1rem;
+    }
+
+    .downgrade_image {
+        width: 45%;
+    }
+
+    .downgrade_details > div h4 {
+        font-size: 0.8rem;
+    }
+
+    .downgrade-names h3 {
+        font-size: 1.2rem;
+        color: var(--color-light);
+
+    }
+
+    .promovidos h3 {
+        font-size: 1.2rem;
+        color: var(--color-light);
+
+    }
+}

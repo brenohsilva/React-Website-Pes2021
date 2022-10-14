@@ -1,0 +1,79 @@
+.libertadores {
+    display: grid;
+    grid-template-columns: 2fr;
+    gap: 2rem;
+    padding: 2rem;
+    place-items: center;
+}
+
+.libertadores-content {
+    padding: 2fr;
+    gap: 1fr;
+    background-color: var(--color-bg-variant);
+    border-radius: 3rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.libertadores > div:hover {
+    background: transparent;
+    border-color: var(--color-bg-libertadores);
+    cursor: default
+}
+
+.libertadores-content-caixa {
+    display: grid;
+    padding: 1rem;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    row-gap: 2rem;
+    place-items: center;
+}
+
+.libertadores__card {
+    width: 40%;
+    padding: 1rem;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background: linear-gradient(85deg, transparent, var(--color-black), transparent);
+    display: grid;
+}
+
+.card__title-libertadores{
+    width: 60%;
+    height: 20%;
+    text-align: center;
+    padding: 1rem 1rem;
+    border-radius: 2rem;
+    background: linear-gradient(45deg, transparent, var(--color-black), transparent);
+    place-items: center;
+}
+
+.card__title-libertadores > h2 {
+    color: var(--color-white);
+}
+
+/* ========================= MEDIA QUERIES(PHONES)600*/
+
+@media screen and (max-width: 600px) {
+
+
+    .libertadores {
+        grid-template-columns: 1fr;
+        padding: 1rem;
+    }
+
+    .libertadores-content {
+        padding: 1rem;
+        border-radius: 3rem;
+    }
+
+    .libertadores-content-caixa {
+        grid-template-columns: 1fr 1fr;
+        row-gap: 1rem;
+        padding: 0rem;
+    }
+    
+    .libertadores__card {
+        width: 70%;
+    }
+}

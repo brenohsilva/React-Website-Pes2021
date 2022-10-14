@@ -1,0 +1,96 @@
+.oeste-container {
+    display: grid;
+    grid-template-columns: 25% 50%;
+    gap: 0%;
+    place-items: center;
+}
+
+.oeste-card {
+    border-radius: 2rem;
+    background: linear-gradient(45deg, transparent, var(--color-light), transparent);
+    display: grid;
+    place-items: center;
+}
+
+.oeste-image {
+    border-radius: 2rem;
+    overflow: hidden;
+    transform: rotate(0deg);
+    background: linear-gradient(45deg, transparent, red, transparent);
+    transition: var(--transition);
+    padding: 2rem;
+}
+
+.oeste-image:hover {
+    transform: rotate(10deg);
+}
+
+.nome-card {
+    width: 100%;
+    border-radius: 2rem;
+    background: linear-gradient(85deg, transparent, var(--color-black), transparent);
+    place-items: center;
+    padding: 0.5rem 10rem;
+}
+
+.information-content {
+    display: grid;
+    gap: 0%;
+    row-gap: 10%;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    grid-template-columns: 60% 30%;
+    place-items: center;
+}
+
+.information-content h3 {
+    width: 100%;
+    border-radius: 2rem;
+    color: black;
+    background: var(--color-light);
+    place-items: center;
+    padding: 0.5rem 1rem;
+}
+
+.information-wins {
+    display: grid;
+    margin-top: 1rem;
+    grid-template-columns: 50% 60%;
+    gap: 0%;
+    place-items: center;
+
+}
+
+.information-card{
+    display: grid;
+    gap: 0%;
+    row-gap: 5%;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    grid-template-columns: 150% 50%;
+    place-items: center;
+
+}
+
+.information-card h3 {
+    width: 80%;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    color: black;
+    background: var(--color-light);
+}
+
+.information-card h3:hover {
+    background: transparent;
+    border-color: var(--color-black);
+    color: white;
+    cursor: default;
+}
+
+.information-card > div {
+    width: 50%;
+}
+.menu-icon {
+    color: var(--color-light);
+    font-size: 1.5rem;
+}
