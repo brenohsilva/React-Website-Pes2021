@@ -46,7 +46,7 @@ const AmericaMG = () => {
                     </article>
                 </div>
 
-                <div>
+                <div className="information-mobile">
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>

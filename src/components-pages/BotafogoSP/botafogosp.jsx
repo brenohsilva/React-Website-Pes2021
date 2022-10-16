@@ -17,7 +17,7 @@ const BotafogoSP = () => {
 
                 <div className="information-container">
                     <div className="nome-card">
-                        <h2>Botafogo de Ribeirao Preto</h2>
+                        <h2>BotafogoSP</h2>
                     </div>
                     <article className="information-content">
                         <h3>Posição</h3>
@@ -46,19 +46,19 @@ const BotafogoSP = () => {
                     </article>
                 </div>
 
-                <div>
+                <div className="information-mobile">
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>7</h3>
+                        <h3>2</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>
-                        <h3>5</h3>
+                        <h3>0</h3>
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>
-                        <h3>0</h3>
+                        <h3>7</h3>
                         </div>
                         <h3>Rebaixamentos</h3>
                         <div>

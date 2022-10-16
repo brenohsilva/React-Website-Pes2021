@@ -46,11 +46,11 @@ const Cuiaba = () => {
                     </article>
                 </div>
 
-                <div>
+                <div className="information-mobile">
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>2</h3>
+                        <h3>1</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>
@@ -58,7 +58,7 @@ const Cuiaba = () => {
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>
-                        <h3>7</h3>
+                        <h3>8</h3>
                         </div>
                         <h3>Rebaixamentos</h3>
                         <div>
@@ -70,7 +70,7 @@ const Cuiaba = () => {
                         </div>
                         <h3>Participações na Serie C</h3>
                         <div>
-                        <h3>1</h3>
+                        <h3>2</h3>
                         </div>
                     </article>
                 </div>

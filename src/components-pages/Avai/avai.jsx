@@ -22,7 +22,7 @@ const Avai = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>33º</h3>
+                        <h3>34º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -46,7 +46,7 @@ const Avai = () => {
                     </article>
                 </div>
 
-                <div>
+                <div className="information-mobile">
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
