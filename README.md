@@ -19,7 +19,7 @@ O The Web Brasileirão é um website com informações retiradas de um modo de j
 <br>
 
 <p align="center">
-  <img alt="project" src="imagens do projeto/header_.jpg" width="80%" height="auto>
+  <img alt="project" src="imagens do projeto/header_.jpg" width="80%" height="auto">
 </p>
 
 ## 🚀 Tecnologias
