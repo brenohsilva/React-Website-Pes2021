@@ -22,7 +22,7 @@ const Bragantino = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>9º</h3>
+                        <h3>10º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -50,7 +50,7 @@ const Bragantino = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>9</h3>
+                        <h3>10</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>

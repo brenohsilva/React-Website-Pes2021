@@ -50,11 +50,11 @@ const Flamengo = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>9</h3>
+                        <h3>10</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>
-                        <h3>8</h3>
+                        <h3>9</h3>
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>

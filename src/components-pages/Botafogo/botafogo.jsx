@@ -50,7 +50,7 @@ const Botafogo = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>7</h3>
+                        <h3>8</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>

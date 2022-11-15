@@ -22,7 +22,7 @@ const BrasilPelotas = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>18º</h3>
+                        <h3>17º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -50,7 +50,7 @@ const BrasilPelotas = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>4</h3>
+                        <h3>5</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>

@@ -22,7 +22,7 @@ const Guarani = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>37º</h3>
+                        <h3>38º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -58,7 +58,7 @@ const Guarani = () => {
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>
-                        <h3>9</h3>
+                        <h3>10</h3>
                         </div>
                         <h3>Rebaixamentos</h3>
                         <div>
@@ -70,7 +70,7 @@ const Guarani = () => {
                         </div>
                         <h3>Participações na Serie C</h3>
                         <div>
-                        <h3>2</h3>
+                        <h3>3</h3>
                         </div>
                     </article>
                 </div>

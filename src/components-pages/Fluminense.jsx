@@ -34,9 +34,9 @@ const Fluminense = () => {
                 <div className="information-wins">
                     <article className='information-card'>
                         <h3>Brasileirao Serie A</h3>
-                        <h3>4</h3>
+                        <h3>5</h3>
                         <h3>Libertadores</h3>
-                        <h3>1</h3>
+                        <h3>2</h3>
                         <h3>Mundial</h3>
                         <h3>0</h3>
                         <h3>Copa do Brasil</h3>
@@ -50,11 +50,11 @@ const Fluminense = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>9</h3>
+                        <h3>10</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>
-                        <h3>7</h3>
+                        <h3>8</h3>
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>

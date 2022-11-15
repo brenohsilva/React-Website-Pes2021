@@ -22,7 +22,7 @@ const Ceara = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>24º</h3>
+                        <h3>22º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -58,7 +58,7 @@ const Ceara = () => {
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>
-                        <h3>5</h3>
+                        <h3>6</h3>
                         </div>
                         <h3>Rebaixamentos</h3>
                         <div>

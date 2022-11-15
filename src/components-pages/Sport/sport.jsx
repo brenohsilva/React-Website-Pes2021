@@ -22,7 +22,7 @@ const Sport = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>14º</h3>
+                        <h3>7º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -40,7 +40,7 @@ const Sport = () => {
                         <h3>Mundial</h3>
                         <h3>0</h3>
                         <h3>Copa do Brasil</h3>
-                        <h3>0</h3>
+                        <h3>1</h3>
                         <h3>Brasileirao Serie B</h3>
                         <h3>0</h3>
                     </article>
@@ -50,11 +50,11 @@ const Sport = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>9</h3>
+                        <h3>10</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>
-                        <h3>0</h3>
+                        <h3>1</h3>
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>

@@ -42,7 +42,7 @@ const Corinthians = () => {
                         <h3>Copa do Brasil</h3>
                         <h3>1</h3>
                         <h3>Brasileirao Serie B</h3>
-                        <h3>0</h3>
+                        <h3>1</h3>
                     </article>
                 </div>
 
@@ -50,7 +50,7 @@ const Corinthians = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>8</h3>
+                        <h3>9</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>
@@ -66,7 +66,7 @@ const Corinthians = () => {
                         </div>
                         <h3>Subidas</h3>
                         <div>
-                        <h3>0</h3>
+                        <h3>1</h3>
                         </div>
                         <h3>Participações na Serie C</h3>
                         <div>

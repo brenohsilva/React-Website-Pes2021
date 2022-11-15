@@ -22,7 +22,7 @@ const BotafogoSP = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>25º</h3>
+                        <h3>28º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -58,11 +58,11 @@ const BotafogoSP = () => {
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>
-                        <h3>7</h3>
+                        <h3>8</h3>
                         </div>
                         <h3>Rebaixamentos</h3>
                         <div>
-                        <h3>0</h3>
+                        <h3>2</h3>
                         </div>
                         <h3>Subidas</h3>
                         <div>

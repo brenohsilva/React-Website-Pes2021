@@ -22,11 +22,11 @@ const Vitoria = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>32º</h3>
+                        <h3>25º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
-                        <h3>6º</h3>
+                        <h3>5º</h3>
                         </div>
                     </article>
                 </div>
@@ -50,7 +50,7 @@ const Vitoria = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>1</h3>
+                        <h3>2</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>
@@ -66,7 +66,7 @@ const Vitoria = () => {
                         </div>
                         <h3>Subidas</h3>
                         <div>
-                        <h3>1</h3>
+                        <h3>2</h3>
                         </div>
                         <h3>Participações na Serie C</h3>
                         <div>

@@ -58,11 +58,11 @@ const AmericaMG = () => {
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>
-                        <h3>8</h3>
+                        <h3>9</h3>
                         </div>
                         <h3>Rebaixamentos</h3>
                         <div>
-                        <h3>0</h3>
+                        <h3>1</h3>
                         </div>
                         <h3>Subidas</h3>
                         <div>

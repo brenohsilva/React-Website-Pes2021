@@ -22,7 +22,7 @@ const Palmeiras = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>7º</h3>
+                        <h3>8º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -50,11 +50,11 @@ const Palmeiras = () => {
                     <article className='information-card'>
                         <h3>Participações na Serie A</h3>
                         <div>
-                        <h3>9</h3>
+                        <h3>10</h3>
                         </div>
                         <h3>Participações na Libertadores</h3>
                         <div>
-                        <h3>7</h3>
+                        <h3>8</h3>
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>

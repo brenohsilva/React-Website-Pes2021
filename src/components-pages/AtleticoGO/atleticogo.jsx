@@ -22,7 +22,7 @@ const AtleticoGO = () => {
                     <article className="information-content">
                         <h3>Posição</h3>
                         <div>
-                        <h3>33º</h3>
+                        <h3>32º</h3>
                         </div>
                         <h3>Posição Regional</h3>
                         <div>
@@ -58,7 +58,7 @@ const AtleticoGO = () => {
                         </div>
                         <h3>Participaçoes na Serie B</h3>
                         <div>
-                        <h3>8</h3>
+                        <h3>9</h3>
                         </div>
                         <h3>Rebaixamentos</h3>
                         <div>
